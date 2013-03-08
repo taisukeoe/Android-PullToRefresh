@@ -42,6 +42,7 @@
                 android:id="@+id/pull_to_refresh_text"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:textColor="#333333"
                 android:singleLine="true"
                 android:textAppearance="?android:attr/textAppearance"
                 android:textStyle="bold" />
@@ -50,6 +51,7 @@
                 android:id="@+id/pull_to_refresh_sub_text"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:textColor="#333333"
                 android:singleLine="true"
                 android:textAppearance="?android:attr/textAppearanceSmall"
                 android:visibility="gone" />
